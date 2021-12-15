@@ -5,7 +5,7 @@
 
 #### GitHub Repository : [here](https://github.com/SabeloMkhwanzi/Unstoppable-Integrating-Login)
 
-#### Demo video and small pitch : [video](https://drive.google.com/drive/folders/1smP2WS9i943l5PxesTcSD8hcYghUljt5?usp=sharing)
+#### Demo video and small pitch : [video]()
 
 #### Date of starting the project : December, 2021
 
@@ -21,7 +21,7 @@
 First, clone the repo with the following git command:
 
 ```bash
-git clone https://github.com/Seth-McKilla/daolytics.git
+git clone https://github.com/SabeloMkhwanzi/Unstoppable-Integrating-Login
 ```
 
 Second, open a terminal in the root directory of the project and run:
