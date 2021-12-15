@@ -16,7 +16,7 @@ export default function QuickStart({ isServerInfo }) {
     <div style={{ display: "flex", gap: "10px" }}>
       <Box mt="15%">
         <>
-          <Text as="h1" fontSize="4xl" fontWeight="bold">
+          <Text as="h1" fontSize="2xl" fontWeight="bold">
             {" "}
             Welcome to GENESIS most intermediate and advanced Defi multiple
             chains Portfolio Wallet.{" "}
@@ -34,7 +34,7 @@ export default function QuickStart({ isServerInfo }) {
           </Text>
           <Avatar
             alignItems="center"
-            size="2xl"
+            size="xl"
             name="unstoppable domains"
             src="https://crypto.jobs/storage/company-logos/yC2CISvH6kg2kZkNnzbACeuxOHmlYZj9rzsDbeVx.png"
             mt="2%"
