@@ -11,7 +11,7 @@
 
 #### GitHub Repository : [here](https://github.com/SabeloMkhwanzi/Unstoppable-Integrating-Login)
 
-#### Demo video and small pitch : [video]()
+#### Demo video and small pitch : [video](https://youtu.be/GbhiOVK7sns)
 
 #### Date of starting the project : December, 2021
 
