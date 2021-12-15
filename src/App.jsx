@@ -93,7 +93,7 @@ const App = ({ isServerInfo }) => {
             >
               <HStack>
                 <Chains />
-//                 <NativeBalance />
+         
                 <Account />
               </HStack>
             </Container>
