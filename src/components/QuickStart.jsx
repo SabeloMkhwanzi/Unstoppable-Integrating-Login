@@ -23,7 +23,6 @@ export default function QuickStart({ isServerInfo }) {
           </Text>
           <Text
             color="#161853"
-            as="u"
             mx="8%"
             textAlign="center"
             fontSize="2xl"
