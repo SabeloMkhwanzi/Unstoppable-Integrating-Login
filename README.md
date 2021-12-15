@@ -1,5 +1,11 @@
-# Unstoppable-Integrating-Login
-### GENESIS Most intermediate and advanced Defi multiple chains Portfolio Wallet
+#  Hackathon: Grants Round 12 Hackathon
+## Integrating “Login With Unstoppable” As A Dapp Login Option
+
+## Challenge Description
+### Integrate the “Login with Unstoppable” feature as a login option on your Dapp OR submit a PR to merge this feature as a login option on an existing DeFi/NFT dapp.
+
+
+#### Project Description : GENESIS Most intermediate and advanced Defi multiple chains Portfolio Wallet. Powered by Unstoppable Domains Helping users to Login with there Unstoppable Domains. 
 
 #### Live website : [Genesis](https://genesiswallet.vercel.app/)
 
@@ -50,5 +56,4 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 <br />
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Made with :heart: by [Sabelo](https://github.com/SabeloMkhwanzi)
-?tab=repositories) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Made with :heart: by [Sabelo](https://github.com/SabeloMkhwanzi) 
