@@ -17,7 +17,7 @@
 
 #### Wallet Address : 0xF975206a46b4eD9f5F008AF9813B19bf083d94eE
 
-#### Person of Contact : Name - [Sabelo Mkhwanazi](https://twitter.com/SabeloMkhwanaz) , email - sabelo.mailme@gmail.com
+#### Person of Contact : Name - [Sabelo Mkhwanazi](https://twitter.com/SabeloMkhwanaz) , Discord - sabelo#2931
 
 
 #### Running the app
