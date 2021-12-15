@@ -6,8 +6,8 @@ import React, { useEffect, useState } from "react";
 const uauth = new UAuth({
   clientID: "+87KQ7mOW0BrCrL8P2GBAiwUogPIAUBxvrqjQDHbALQ=",
   clientSecret: "ah8hxP+kJFjlP5fAbTMRaGlzPF7H1cO/SjhGrsP6xL0=",
-  redirectUri: "http://localhost:3000/callback",
-  //postLogoutRedirectUri: "http://localhost:3000/",
+  redirectUri: "https://genesiswallet.netlify.app/callback",
+  //postLogoutRedirectUri: "https://genesiswallet.netlify.app/quickstart",
   // scope: "openid email wallet",
 });
 
