@@ -7,8 +7,8 @@ const uauth = new UAuth({
   clientID: "+87KQ7mOW0BrCrL8P2GBAiwUogPIAUBxvrqjQDHbALQ=",
   clientSecret: "ah8hxP+kJFjlP5fAbTMRaGlzPF7H1cO/SjhGrsP6xL0=",
   redirectUri: "https://genesiswallet.vercel.app/callback",
-  //postLogoutRedirectUri: "https://genesiswallet.netlify.app/quickstart",
-  // scope: "openid email wallet",
+  postLogoutRedirectUri: "https://genesiswallet.vercel.app/",
+  scope: "openid email wallet",
 });
 
 function Account() {
