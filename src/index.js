@@ -5,8 +5,8 @@ import ReactDOM from "react-dom";
 import App from "./App";
 import { MoralisProvider } from "react-moralis";
 
-const APP_ID = "5l3S8AAj7MtMSNZbLoOkdSiN8AVOEHnZRNc6PqDU";
-const SERVER_URL = "https://nxj1hsc3m8wc.usemoralis.com:2053/serverL";
+const APP_ID = process.env.REACT_APP_MORALIS_APPLICATION_ID;
+const SERVER_URL = process.env.REACT_APP_MORALIS_SERVER_URL;
 
 const Application = () => {
   const isServerInfo = APP_ID && SERVER_URL ? true : false;
