@@ -18,7 +18,7 @@ export default function QuickStart({ isServerInfo }) {
         <>
           <Text as="h1" fontSize="4xl" fontWeight="bold">
             {" "}
-            Welcome to GENESIS the intermediate and advanced Defi multiple
+            Welcome to GENESIS most intermediate and advanced Defi multiple
             chains Portfolio Wallet.{" "}
           </Text>
           <Text
