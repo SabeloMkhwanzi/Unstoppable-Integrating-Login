@@ -1,4 +1,3 @@
-import { Card, Timeline, Typography } from "antd";
 import React, { useMemo } from "react";
 import { useMoralis } from "react-moralis";
 
@@ -25,10 +24,10 @@ const styles = {
 export default function QuickStart({ isServerInfo }) {
   const { Moralis } = useMoralis();
 
-  const isInchDex = useMemo(
-    () => (Moralis.Plugins?.oneInch ? true : false),
-    [Moralis.Plugins?.oneInch]
-  );
+  // const isInchDex = useMemo(
+  //   () => (Moralis.Plugins?.oneInch ? true : false),
+  //   [Moralis.Plugins?.oneInch]
+  // );
 
   return (
     <div style={{ display: "flex", gap: "10px" }}>

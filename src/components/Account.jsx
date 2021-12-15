@@ -50,6 +50,8 @@ function Account() {
     return <App />;
   }
 
+  console.log(loading);
+
   if (user) {
     return (
       <>

@@ -1,13 +1,7 @@
 /* eslint-disable react/jsx-no-duplicate-props */
 import { useEffect } from "react";
 import { useMoralis } from "react-moralis";
-import {
-  Text,
-  useColorMode,
-  Button,
-  Container,
-  HStack,
-} from "@chakra-ui/react";
+import { Text, Container, HStack } from "@chakra-ui/react";
 import {
   BrowserRouter as Router,
   Switch,
@@ -64,7 +58,6 @@ const styles = {
   },
 };
 const App = ({ isServerInfo }) => {
-  const { colorMode, toggleColorMode } = useColorMode();
   const { isWeb3Enabled, enableWeb3, isAuthenticated, isWeb3EnableLoading } =
     useMoralis();
 
