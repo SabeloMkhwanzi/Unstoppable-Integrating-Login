@@ -5,7 +5,7 @@
 ### Integrate the “Login with Unstoppable” feature as a login option on your Dapp OR submit a PR to merge this feature as a login option on an existing DeFi/NFT dapp.
 
 
-#### Project Description : GENESIS Most intermediate and advanced Defi multiple chains Portfolio Wallet. Powered by Unstoppable Domains Helping users to Login with there Unstoppable Domains. 
+#### Project Description : GENESIS - The intermediate and advanced Defi multiple chains Portfolio Wallet. Powered by Unstoppable Domains Helping users to Login with there Unstoppable Domains. 
 
 #### Live website : [Genesis](https://genesiswallet.vercel.app/)
 
