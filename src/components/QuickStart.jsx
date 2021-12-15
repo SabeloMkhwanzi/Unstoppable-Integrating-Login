@@ -26,7 +26,7 @@ export default function QuickStart({ isServerInfo }) {
             as="u"
             mx="8%"
             textAlign="center"
-            fontSize="3xl"
+            fontSize="2xl"
             fontWeight="bold"
           >
             Powered by Unstoppable Domains Helping users to Login with there
@@ -34,7 +34,7 @@ export default function QuickStart({ isServerInfo }) {
           </Text>
           <Avatar
             alignItems="center"
-            size="xl"
+            size="lg"
             name="unstoppable domains"
             src="https://crypto.jobs/storage/company-logos/yC2CISvH6kg2kZkNnzbACeuxOHmlYZj9rzsDbeVx.png"
             mt="2%"
