@@ -7,19 +7,6 @@
 
 #### Project Description : GENESIS - The intermediate and advanced Defi multiple chains Portfolio Wallet. Powered by Unstoppable Domains Helping users to Login with there Unstoppable Domains. 
 
-#### Live website : [Genesis](https://genesiswallet.vercel.app/)
-
-#### GitHub Repository : [here](https://github.com/SabeloMkhwanzi/Unstoppable-Integrating-Login)
-
-#### Demo video and small pitch : [video](https://youtu.be/GbhiOVK7sns)
-
-#### Date of starting the project : December, 2021
-
-#### Wallet Address : 0xF975206a46b4eD9f5F008AF9813B19bf083d94eE
-
-#### Person of Contact : Name - [Sabelo Mkhwanazi](https://twitter.com/SabeloMkhwanaz) , Discord - sabelo#2931
-
-
 #### Running the app
 
 ## Getting Started
